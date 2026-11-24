@@ -1238,7 +1238,6 @@ export const dict = {
   "sidebar.inbox.section.working": "Pracuje",
   "sidebar.inbox.section.recent": "Nedávne",
   "sidebar.inbox.section.archived": "Archivované",
-  "sidebar.inbox.archived.title": "Archivované relácie",
   "sidebar.inbox.unarchive": "Zrušiť archiváciu",
   "sidebar.inbox.status.approval": "Schválenie",
   "sidebar.inbox.status.input": "Otázka",

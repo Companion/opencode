@@ -1304,7 +1304,6 @@ export const dict = {
   "sidebar.inbox.section.working": "Виконуються",
   "sidebar.inbox.section.recent": "Нещодавні",
   "sidebar.inbox.section.archived": "Архівовані",
-  "sidebar.inbox.archived.title": "Архівовані сесії",
   "sidebar.inbox.unarchive": "Розархівувати",
   "sidebar.inbox.status.approval": "Схвалення",
   "sidebar.inbox.status.input": "Запитання",

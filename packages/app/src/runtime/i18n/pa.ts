@@ -1207,7 +1207,6 @@ export const dict = {
   "sidebar.inbox.section.working": "کم ہو رہیا اے",
   "sidebar.inbox.section.recent": "حالیہ",
   "sidebar.inbox.section.archived": "آرکائیو",
-  "sidebar.inbox.archived.title": "آرکائیو کیتے سیشن",
   "sidebar.inbox.unarchive": "آرکائیو توں کڈھو",
   "sidebar.inbox.status.approval": "منظوری",
   "sidebar.inbox.status.input": "سوال",

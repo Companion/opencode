@@ -1265,7 +1265,6 @@ export const dict = {
   "sidebar.inbox.section.working": "Bekerja",
   "sidebar.inbox.section.recent": "Terbaru",
   "sidebar.inbox.section.archived": "Diarsipkan",
-  "sidebar.inbox.archived.title": "Sesi yang diarsipkan",
   "sidebar.inbox.unarchive": "Batalkan arsip",
   "sidebar.inbox.status.approval": "Persetujuan",
   "sidebar.inbox.status.input": "Pertanyaan",

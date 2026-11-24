@@ -1209,7 +1209,6 @@ export const dict = {
   "sidebar.inbox.section.working": "Работат",
   "sidebar.inbox.section.recent": "Неодамнешни",
   "sidebar.inbox.section.archived": "Архивирани",
-  "sidebar.inbox.archived.title": "Архивирани сесии",
   "sidebar.inbox.unarchive": "Врати од архива",
   "sidebar.inbox.status.approval": "Одобрение",
   "sidebar.inbox.status.input": "Прашање",
